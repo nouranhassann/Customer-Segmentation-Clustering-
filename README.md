@@ -52,6 +52,12 @@ This project analyzes **customer purchasing behavior** using transaction data to
 - Log(Monetary) distribution  
 - PCA 2D cluster scatter plot  
 - Cluster profiles and summary statistics
+## Contributors
 
-## Project Link
-[GitHub Repository Link](#)
+- [Bassmala Mahmoud](https://github.com/bassmalamahmoud)
+- [Mohamed (mu20042006-cyber)](https://github.com/mu20042006-cyber)
+- [Naiera Kassem](https://github.com/naierakassem614-tech)
+
+This project was developed collaboratively as a team effort. All contributors participated equally in data preparation, analysis, modeling, and documentation.
+ 
+
