@@ -57,6 +57,8 @@ This project analyzes **customer purchasing behavior** using transaction data to
 - [Bassmala Mahmoud](https://github.com/bassmalamahmoud)
 - [Mohamed (mu20042006-cyber)](https://github.com/mu20042006-cyber)
 - [Naiera Kassem](https://github.com/naierakassem614-tech)
+- Nada Eissa
+  
 
 This project was developed collaboratively as a team effort. All contributors participated equally in data preparation, analysis, modeling, and documentation.
  
